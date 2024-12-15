@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards related QA APIs "
+  contactDetails:
+    name: "Cards QA"
+    email: "testqa@cards.com"
+  onCallSupport:
+    - 11111111q
+    - 22222222q

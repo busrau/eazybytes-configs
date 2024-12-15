@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans related PROD APIs "
+  contactDetails:
+    name: "Loans PROD"
+    email: "testprod@loans.com"
+  onCallSupport:
+    - 11111111p
+    - 22222222p

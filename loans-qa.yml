@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to loans related QA APIs "
+  contactDetails:
+    name: "Loans QA"
+    email: "testqa@loans.com"
+  onCallSupport:
+    - 11111111q
+    - 22222222q

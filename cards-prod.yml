@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to cards related PROD APIs "
+  contactDetails:
+    name: "Cards PROD"
+    email: "testprod@cards.com"
+  onCallSupport:
+    - 11111111p
+    - 22222222p
