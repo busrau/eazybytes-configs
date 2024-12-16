@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to cards related PROD APIs "
+  message: "Welcome to cards related web hook APIs "
   contactDetails:
     name: "Cards PROD"
     email: "testprod@cards.com"
