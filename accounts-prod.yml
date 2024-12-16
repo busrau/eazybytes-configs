@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts related production APIs "
+  message: "Welcome to accounts related PROD APIs "
   contactDetails:
     name: "Accounts PROD"
     email: "6895e1d30f23ca79a16f8f56a026b36273cdd88b18f9368447302ac79be00bc34b7cac9b5cb15ad0e33076f3320813d2"
